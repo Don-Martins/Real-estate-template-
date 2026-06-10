@@ -7,7 +7,7 @@ export const COMPANY: Company = {
   whatsapp: "+13105550199",
   email: "conciege@aurumestates.com",
   address: "9440 Santa Monica Blvd, Beverly Hills, CA 90210",
-  logo: "AURUM",
+  logo: "LOGO",
   favicon: "🏆",
   primaryColor: "#0D0D0D", // Deep Black
   secondaryColor: "#1C1C1C", // Charcoal Gray
