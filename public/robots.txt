@@ -1,0 +1,8 @@
+# Aurum Estates Robots.txt Configuration
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /secure-desk/
+
+# Sitemap Locations
+Sitemap: https://aurumestates.com/sitemap.xml

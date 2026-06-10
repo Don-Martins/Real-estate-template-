@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Real Estate Website",
+  "description": "An ultra-premium, design-first luxury real estate portal featuring interactive portfolios, secure inquiries, dynamic sitemaps, and smooth motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
